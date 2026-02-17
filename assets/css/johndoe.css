@@ -493,7 +493,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #343a40;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -527,7 +527,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: #fff;
+  color: #343a40;
   background-color: #212529;
   border-radius: 0.2rem;
 }
@@ -2068,7 +2068,7 @@ pre code {
 }
 
 .table .thead-dark th {
-  color: #fff;
+  color: #343a40;
   background-color: #343a40;
   border-color: #454d55;
 }
@@ -2080,7 +2080,7 @@ pre code {
 }
 
 .table-dark {
-  color: #fff;
+  color: #343a40;
   background-color: #343a40;
 }
 
@@ -2099,7 +2099,7 @@ pre code {
 }
 
 .table-dark.table-hover tbody tr:hover {
-  color: #fff;
+  color: #343a40;
   background-color: rgba(255, 255, 255, 0.075);
 }
 
@@ -2171,7 +2171,7 @@ pre code {
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
-  background-color: #fff;
+  background-color: #343a40;
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
